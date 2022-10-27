@@ -1,0 +1,2 @@
+[nfs]
+68.183.92.216 ansible_ssh_user='root'
